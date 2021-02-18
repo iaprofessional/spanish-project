@@ -1,0 +1,15 @@
+.video {
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 500px;
+    width: 700px;
+  }
+  .heading {
+    font-family: 'Indie Flower', cursive;
+    color: #0000FF;
+    margin-left: 40%;
+  }
+  body {
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+  }
